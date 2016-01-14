@@ -1,0 +1,25 @@
+{
+  "name": "hubot-googleflog",
+  "description": "Hubot script that integrates googleflog translator.",
+  "version": "0.0.1",
+  "author": "kinduff <abarcadabra@gmail.com>",
+  "license": "MIT",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hubot-scripts/hubot-googleflog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hubot-scripts/hubot-googleflog/issues"
+  },
+  "dependencies": {
+    "googleflog": "^1.0.2"
+  },
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "devDependencies": {
+    "coffee-script": "1.6.3",
+    "hubot": "2.x"
+  }
+}
