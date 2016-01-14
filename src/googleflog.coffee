@@ -1,5 +1,5 @@
 # Description
-#   Hubot script that integrates googleflog translator
+# Hubot script that integrates googleflog translator.
 #
 # Commands:
 #   hubot googleflog - with text to be translated.
