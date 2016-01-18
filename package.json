@@ -13,7 +13,7 @@
     "url": "https://github.com/hubot-scripts/hubot-googleflog/issues"
   },
   "dependencies": {
-    "googleflog": "^1.0.2"
+    "googleflog": "^1.0.3"
   },
   "peerDependencies": {
     "hubot": "2.x"
